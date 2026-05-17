@@ -56,5 +56,5 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Author
 
-- Frontend Mentor - [@rahulpaul12](https://www.frontendmentor.io/profile/rahulpaul12)
+- Frontend Mentor - [@rahulpaul127](https://www.frontendmentor.io/profile/rahulpaul127)
 - Twitter - [@rahulpaul127](https://x.com/rahulpaul127)
